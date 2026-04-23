@@ -1,5 +1,8 @@
 # Prerequisites
 *.d
+*.project
+*.mk
+*.workspace
 
 # Compiled Object files
 *.slo
