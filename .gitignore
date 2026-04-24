@@ -1,3 +1,8 @@
+# Overhead
+/build-Debug
+*.~lock*
+.codelite
+
 # Prerequisites
 *.d
 *.project
