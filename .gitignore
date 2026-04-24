@@ -1,8 +1,13 @@
-# Prerequisites
-*.d
+# Overhead
 *.project
 *.mk
 *.workspace
+.codelite
+*.~lock*
+/build-Debug
+
+# Prerequisites
+*.d
 
 # Compiled Object files
 *.slo
