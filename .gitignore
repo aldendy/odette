@@ -1,10 +1,14 @@
 # Overhead
+/build-Debug
+*.~lock*
+.codelite
+Makefile
+
+# Prerequisites
+*.d
 *.project
 *.mk
 *.workspace
-.codelite
-*.~lock*
-/build-Debug
 
 # Prerequisites
 *.d
